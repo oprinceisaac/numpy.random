@@ -23,17 +23,25 @@ https://www.anaconda.com/download/
 
 
 References Guide:
+
 https://github.com/.
 
 https://git-scm.com/.
 
 NumPy Simple Random data
+
 https://numpy.org/
+
 https://docs.scipy.org/doc/numpy/reference/routines.random.html
+
 Numpy Permutations
+
 https://docs.scipy.org/doc/numpy/reference/routines.random.html
+
 Random number generators
+
 https://docs.scipy.org/doc/numpy/reference/routines.random.html
+
 https://stackoverflow.com/questions/14914595/what-is-a-seed-in-terms-of-generating-a-random-number
 
 https://en.wikipedia.org/wiki/List_of_probability_distributions
